@@ -77,16 +77,9 @@ Else → **Silver**
 
 ---
 
-## 💼 Real-World Use Case
+## 💬 Connect with Me
+Feel free to reach out with any questions or to connect further!
 
-> “As a product owner, I want to understand my product’s sales performance, market health, and customer contributions — all with minimal manual effort.”
-
-This project answers that exact business need — empowering decision-makers to:
-- Track performance across products, customers, and regions
-- Automate recurring reports
-- Analyze growth and gaps in real time
-
----
-
-## 📂 Repository Overview
+- 📫 **Email**: [melbinbiju212330@gmail.com](mailto:melbinbiju212330@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/melbin-biju](https://www.linkedin.com/in/melbin-biju/)
 
