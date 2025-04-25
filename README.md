@@ -1,4 +1,4 @@
-# 🚀 Finance-and-Top-N-Insights-Advanced-SQL
+# 🚀 Consumer-Goods-Ad-Hoc-Insights-SQL
 
 Welcome to my SQL project built for the consumer electronics brand **AtliQ**. This project replicates a real-world business scenario in finance and product analytics — demonstrating my ability to build automated, scalable, and business-driven solutions using pure SQL.
 
